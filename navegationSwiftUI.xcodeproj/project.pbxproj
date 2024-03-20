@@ -14,6 +14,9 @@
 		B748235F2BAB830D00D96F94 /* VentanaModal.swift in Sources */ = {isa = PBXBuildFile; fileRef = B748235E2BAB830D00D96F94 /* VentanaModal.swift */; };
 		B74823612BAB987B00D96F94 /* SegundaVista.swift in Sources */ = {isa = PBXBuildFile; fileRef = B74823602BAB987B00D96F94 /* SegundaVista.swift */; };
 		B74823632BAB9A6800D96F94 /* TercerVista.swift in Sources */ = {isa = PBXBuildFile; fileRef = B74823622BAB9A6800D96F94 /* TercerVista.swift */; };
+		B74823652BABA88F00D96F94 /* TabViewMain.swift in Sources */ = {isa = PBXBuildFile; fileRef = B74823642BABA88F00D96F94 /* TabViewMain.swift */; };
+		B74823672BABA8CA00D96F94 /* Vista2.swift in Sources */ = {isa = PBXBuildFile; fileRef = B74823662BABA8CA00D96F94 /* Vista2.swift */; };
+		B74823692BABAAC200D96F94 /* TercerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B74823682BABAAC200D96F94 /* TercerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +28,9 @@
 		B748235E2BAB830D00D96F94 /* VentanaModal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VentanaModal.swift; sourceTree = "<group>"; };
 		B74823602BAB987B00D96F94 /* SegundaVista.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegundaVista.swift; sourceTree = "<group>"; };
 		B74823622BAB9A6800D96F94 /* TercerVista.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TercerVista.swift; sourceTree = "<group>"; };
+		B74823642BABA88F00D96F94 /* TabViewMain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewMain.swift; sourceTree = "<group>"; };
+		B74823662BABA8CA00D96F94 /* Vista2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vista2.swift; sourceTree = "<group>"; };
+		B74823682BABAAC200D96F94 /* TercerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TercerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +70,9 @@
 				B748235E2BAB830D00D96F94 /* VentanaModal.swift */,
 				B74823602BAB987B00D96F94 /* SegundaVista.swift */,
 				B74823622BAB9A6800D96F94 /* TercerVista.swift */,
+				B74823642BABA88F00D96F94 /* TabViewMain.swift */,
+				B74823662BABA8CA00D96F94 /* Vista2.swift */,
+				B74823682BABAAC200D96F94 /* TercerView.swift */,
 			);
 			path = navegationSwiftUI;
 			sourceTree = "<group>";
@@ -149,8 +158,11 @@
 				B74823532BAB6B0800D96F94 /* ContentView.swift in Sources */,
 				B748235F2BAB830D00D96F94 /* VentanaModal.swift in Sources */,
 				B74823512BAB6B0800D96F94 /* navegationSwiftUIApp.swift in Sources */,
+				B74823692BABAAC200D96F94 /* TercerView.swift in Sources */,
 				B74823612BAB987B00D96F94 /* SegundaVista.swift in Sources */,
+				B74823652BABA88F00D96F94 /* TabViewMain.swift in Sources */,
 				B74823632BAB9A6800D96F94 /* TercerVista.swift in Sources */,
+				B74823672BABA8CA00D96F94 /* Vista2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

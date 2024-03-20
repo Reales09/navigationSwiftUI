@@ -11,7 +11,8 @@ import SwiftUI
 struct navegationSwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            //ContentView()
+            TabViewMain()
         }
     }
 }
